@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm listener, enthusiastic and fast learner...
+## I'm a listener, an enthusiastic person and a fast learner...
 
 - 🔭 I'm currently working on a Machine Learning project (last update: August, 2021)
 - 🌱 I’m currently learning Node.js
