@@ -1,4 +1,4 @@
-### Hi there, I'm Rokon 👋
+### Hi there 👋
 
 ## I'm a listener, a watcher and a learner...
 
