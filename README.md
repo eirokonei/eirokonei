@@ -3,9 +3,9 @@
 ## I'm a listener, an enthusiastic person and a fast learner...
 
 - 🔭 I'm currently working on a Machine Learning project (last update: January, 2022)
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning everything!
 - 👯 I’m looking for a full time job as a full stack developer
-- 🥅 2021 Goals: Learn new tools and technologies and contribute in country's IT community
+- 🥅 2022 Goals: Learn new tools and technologies and contribute in country's IT community
 - ⚡ Fun fact: I love Poetry and Gardening
 
 ### Connect with me:
