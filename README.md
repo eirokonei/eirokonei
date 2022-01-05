@@ -2,7 +2,7 @@
 
 ## I'm a listener, an enthusiastic person and a fast learner...
 
-- 🔭 I'm currently working on a Machine Learning project (last update: August, 2021)
+- 🔭 I'm currently working on a Machine Learning project (last update: January, 2022)
 - 🌱 I’m currently learning Node.js
 - 👯 I’m looking for a full time job as a full stack developer
 - 🥅 2021 Goals: Learn new tools and technologies and contribute in country's IT community
