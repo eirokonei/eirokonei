@@ -42,10 +42,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Real-Time Facial Expression Detection || Face Emotions Recognition || FER2013 Dataset](https://www.youtube.com/watch?v=Ya_SPoyf5QA)
 - [Real-Time Facemask Detection || Machine Learning || With Source Code](https://www.youtube.com/watch?v=d64y-n-TSc8)
 - [Glut Setup for CodeBlocks|| Computer Graphics|| Simple || Step By Step || C++](https://www.youtube.com/watch?v=g0aqgvjGsIc)
-- [Study of Universal Gates. | NAND & NOR | Multisim Simulation | Creating other gates using NAND & NOR](https://www.youtube.com/watch?v=kNhdtLvCD2A)
-- [Studying different digital Integrated Circuits (ICs) | Digital Logic Design | Multisim Simulation](https://www.youtube.com/watch?v=I4pggvG9EyI)
+- [Study of Universal Gates. | NAND &amp; NOR | Multisim Simulation | Creating other gates using NAND &amp; NOR](https://www.youtube.com/watch?v=kNhdtLvCD2A)
+- [Studying different digital Integrated Circuits &lpar;ICs&rpar; | Digital Logic Design | Multisim Simulation](https://www.youtube.com/watch?v=I4pggvG9EyI)
 <!-- YOUTUBE:END -->
 
 <br />
