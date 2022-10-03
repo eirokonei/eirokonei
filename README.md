@@ -3,16 +3,24 @@
 ## I'm a listener, an enthusiastic person and a fast learner...
 
 My life doesn't follow Chomsky Normal Form(CNF)
-
-S-> A|B
+<br />
+S-> A|B 
+<br />
 A-> Learning B
+<br />
 B-> Everything C
+<br />
 C-> But Ex
+<br />
 Ex-> Nothing|ε
+<br />
 
 S-> Learning B
+<br />
 S-> Learning Everything C
+<br />
 S-> Learning Everything But Ex
+<br />
 S-> Learning Everything But Nothing
 
 ### Connect with me:
