@@ -2,11 +2,18 @@
 
 ## I'm a listener, an enthusiastic person and a fast learner...
 
-- 🔭 I'm currently working on a Machine Learning project (last update: January, 2022)
-- 🌱 I’m currently learning everything!
-- 👯 I’m looking for a full time job as a full stack developer
-- 🥅 2022 Goals: Learn new tools and technologies and contribute in country's IT community
-- ⚡ Fun fact: I love Poetry and Gardening
+My life doesn't follow Chomsky Normal Form(CNF)
+
+S-> A|B
+A-> Learning B
+B-> Everything C
+C-> But Ex
+Ex-> Nothing|ε
+
+S-> Learning B
+S-> Learning Everything C
+S-> Learning Everything But Ex
+S-> Learning Everything But Nothing
 
 ### Connect with me:
 
